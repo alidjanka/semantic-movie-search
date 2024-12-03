@@ -1,0 +1,1818 @@
+[
+    {
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "rating": 8.6,
+        "link": "https://www.imdb.com/title/tt0038650",
+        "description": "Released in 1946, *It's a Wonderful Life* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "24"
+    },
+    {
+        "title": "La vita \u00e8 bella",
+        "year": 1997,
+        "rating": 8.6,
+        "link": "https://www.imdb.com/title/tt0118799",
+        "description": "Released in 1997, *La vita \u00e8 bella* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "25"
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "rating": 8.6,
+        "link": "https://www.imdb.com/title/tt0114814",
+        "description": "Released in 1995, *The Usual Suspects* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "26"
+    },
+    {
+        "title": "Sen to Chihiro no kamikakushi",
+        "year": 2001,
+        "rating": 8.6,
+        "link": "https://www.imdb.com/title/tt0245429",
+        "description": "Released in 2001, *Sen to Chihiro no kamikakushi* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "27"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "rating": 8.6,
+        "link": "https://www.imdb.com/title/tt0120815",
+        "description": "Released in 1998, *Saving Private Ryan* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "28"
+    },
+    {
+        "title": "L\u00e9on",
+        "year": 1994,
+        "rating": 8.6,
+        "link": "https://www.imdb.com/title/tt0110413",
+        "description": "Released in 1994, *L\u00e9on* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "29"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "rating": 8.7,
+        "link": "https://www.imdb.com/title/tt4633694",
+        "description": "Released in 2018, *Spider-Man: Into the Spider-Verse* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "30"
+    },
+    {
+        "title": "The Green Mile",
+        "year": 1999,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0120689",
+        "description": "Released in 1999, *The Green Mile* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "31"
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "rating": 8.6,
+        "link": "https://www.imdb.com/title/tt0816692",
+        "description": "Released in 2014, *Interstellar* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "32"
+    },
+    {
+        "title": "Psycho",
+        "year": 1960,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0054215",
+        "description": "Released in 1960, *Psycho* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "33"
+    },
+    {
+        "title": "American History X",
+        "year": 1998,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0120586",
+        "description": "Released in 1998, *American History X* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "34"
+    },
+    {
+        "title": "City Lights",
+        "year": 1931,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0021749",
+        "description": "Released in 1931, *City Lights* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "35"
+    },
+    {
+        "title": "C'era una volta il West",
+        "year": 1968,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0064116",
+        "description": "Released in 1968, *C'era una volta il West* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "36"
+    },
+    {
+        "title": "Casablanca",
+        "year": 1942,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0034583",
+        "description": "Released in 1942, *Casablanca* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "37"
+    },
+    {
+        "title": "Modern Times",
+        "year": 1936,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0027977",
+        "description": "Released in 1936, *Modern Times* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "38"
+    },
+    {
+        "title": "The Pianist",
+        "year": 2002,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0253474",
+        "description": "Released in 2002, *The Pianist* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "39"
+    },
+    {
+        "title": "Intouchables",
+        "year": 2011,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt1675434",
+        "description": "Released in 2011, *Intouchables* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "40"
+    },
+    {
+        "title": "The Departed",
+        "year": 2006,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0407887",
+        "description": "Released in 2006, *The Departed* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "41"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0103064",
+        "description": "Released in 1991, *Terminator 2: Judgment Day* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "42"
+    },
+    {
+        "title": "Back to the Future",
+        "year": 1985,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0088763",
+        "description": "Released in 1985, *Back to the Future* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "43"
+    },
+    {
+        "title": "Whiplash",
+        "year": 2014,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt2582802",
+        "description": "Released in 2014, *Whiplash* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "44"
+    },
+    {
+        "title": "Rear Window",
+        "year": 1954,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0047396",
+        "description": "Released in 1954, *Rear Window* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "45"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0082971",
+        "description": "Released in 1981, *Raiders of the Lost Ark* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "46"
+    },
+    {
+        "title": "The Lion King\u00a0",
+        "year": 1994,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0110357",
+        "description": "Released in 1994, *The Lion King\u00a0* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "47"
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0172495",
+        "description": "Released in 2000, *Gladiator* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "48"
+    },
+    {
+        "title": "The Prestige",
+        "year": 2006,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0482571",
+        "description": "Released in 2006, *The Prestige* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "49"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0078788",
+        "description": "Released in 1979, *Apocalypse Now* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "50"
+    },
+    {
+        "title": "Memento",
+        "year": 2000,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0209144",
+        "description": "Released in 2000, *Memento* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "51"
+    },
+    {
+        "title": "Alien",
+        "year": 1979,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0078748",
+        "description": "Released in 1979, *Alien* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "52"
+    },
+    {
+        "title": "The Great Dictator",
+        "year": 1940,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0032553",
+        "description": "Released in 1940, *The Great Dictator* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "53"
+    },
+    {
+        "title": "Nuovo Cinema Paradiso",
+        "year": 1988,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0095765",
+        "description": "Released in 1988, *Nuovo Cinema Paradiso* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "54"
+    },
+    {
+        "title": "Hotaru no haka",
+        "year": 1988,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt0095327",
+        "description": "Released in 1988, *Hotaru no haka* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "55"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt4154756",
+        "description": "Released in 2018, *Avengers: Infinity War* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "56"
+    },
+    {
+        "title": "Sunset Blvd.",
+        "year": 1950,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0043014",
+        "description": "Released in 1950, *Sunset Blvd.* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "57"
+    },
+    {
+        "title": "Das Leben der Anderen",
+        "year": 2006,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0405094",
+        "description": "Released in 2006, *Das Leben der Anderen* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "58"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": 1964,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0057012",
+        "description": "Released in 1964, *Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "59"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": 1957,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0050825",
+        "description": "Released in 1957, *Paths of Glory* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "60"
+    },
+    {
+        "title": "The Shining",
+        "year": 1980,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0081505",
+        "description": "Released in 1980, *The Shining* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "61"
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt1853728",
+        "description": "Released in 2012, *Django Unchained* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "62"
+    },
+    {
+        "title": "WALL\u00b7E",
+        "year": 2008,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0910970",
+        "description": "Released in 2008, *WALL\u00b7E* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "63"
+    },
+    {
+        "title": "Mononoke-hime",
+        "year": 1997,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0119698",
+        "description": "Released in 1997, *Mononoke-hime* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "64"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": 1957,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0051201",
+        "description": "Released in 1957, *Witness for the Prosecution* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "65"
+    },
+    {
+        "title": "American Beauty",
+        "year": 1999,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0169547",
+        "description": "Released in 1999, *American Beauty* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "66"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt1345836",
+        "description": "Set in a dark and gritty urban landscape, this action-packed superhero film explores themes of justice, chaos, and morality. *The Dark Knight* stands out for its iconic performances, particularly Heath Ledger\u2019s chilling portrayal of the Joker, and its intricate, morally complex narrative. It redefined the superhero genre with its intense atmosphere and thought-provoking themes.",
+        "id": "67"
+    },
+    {
+        "title": "Oldeuboi",
+        "year": 2003,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0364569",
+        "description": "Released in 2003, *Oldeuboi* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "68"
+    },
+    {
+        "title": "Aliens",
+        "year": 1986,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0090605",
+        "description": "Released in 1986, *Aliens* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "69"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": 1984,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0087843",
+        "description": "Released in 1984, *Once Upon a Time in America* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "70"
+    },
+    {
+        "title": "Coco",
+        "year": 2017,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt2380307",
+        "description": "Released in 2017, *Coco* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "71"
+    },
+    {
+        "title": "Das Boot",
+        "year": 1981,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0082096",
+        "description": "Released in 1981, *Das Boot* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "72"
+    },
+    {
+        "title": "Citizen Kane",
+        "year": 1941,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0033467",
+        "description": "Released in 1941, *Citizen Kane* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "73"
+    },
+    {
+        "title": "Braveheart",
+        "year": 1995,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0112573",
+        "description": "Released in 1995, *Braveheart* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "74"
+    },
+    {
+        "title": "Vertigo",
+        "year": 1958,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0052357",
+        "description": "Released in 1958, *Vertigo* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "75"
+    },
+    {
+        "title": "North by Northwest",
+        "year": 1959,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0053125",
+        "description": "Released in 1959, *North by Northwest* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "76"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0105236",
+        "description": "Released in 1992, *Reservoir Dogs* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "77"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": 1983,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0086190",
+        "description": "Released in 1983, *Star Wars: Episode VI - Return of the Jedi* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "78"
+    },
+    {
+        "title": "M - Eine Stadt sucht einen M\u00f6rder",
+        "year": 1931,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0022100",
+        "description": "Released in 1931, *M - Eine Stadt sucht einen M\u00f6rder* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "79"
+    },
+    {
+        "title": "Kimi no na wa.",
+        "year": 2016,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt5311514",
+        "description": "Released in 2016, *Kimi no na wa.* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "80"
+    },
+    {
+        "title": "Amadeus",
+        "year": 1984,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0086879",
+        "description": "Released in 1984, *Amadeus* is a masterful portrayal of the life of Wolfgang Amadeus Mozart, capturing the rivalry between Mozart and composer Antonio Salieri. Set against the backdrop of 18th-century Vienna, the film blends suspense, comedy, and musical genius with rich period detail. Famous for its non-linear storytelling, *Amadeus* explores themes of jealousy, ambition, and the price of genius, making it an unforgettable cinematic experience.",
+        "id": "81"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0180093",
+        "description": "Released in 2000, *Requiem for a Dream* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "82"
+    },
+    {
+        "title": "Dangal",
+        "year": 2016,
+        "rating": 8.5,
+        "link": "https://www.imdb.com/title/tt5074352",
+        "description": "Released in 2016, *Dangal* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "83"
+    },
+    {
+        "title": "Taare Zameen Par",
+        "year": 2007,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0986264",
+        "description": "Released in 2007, *Taare Zameen Par* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "84"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": 1962,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0056172",
+        "description": "Released in 1962, *Lawrence of Arabia* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "85"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0338013",
+        "description": "Released in 2004, *Eternal Sunshine of the Spotless Mind* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "86"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": 1971,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0066921",
+        "description": "Released in 1971, *A Clockwork Orange* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "87"
+    },
+    {
+        "title": "3 Idiots",
+        "year": 2009,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt1187043",
+        "description": "Released in 2009, *3 Idiots* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "88"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0062622",
+        "description": "Released in 1968, *2001: A Space Odyssey* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "89"
+    },
+    {
+        "title": "Le fabuleux destin d'Am\u00e9lie Poulain",
+        "year": 2001,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0211915",
+        "description": "Released in 2001, *Le fabuleux destin d'Am\u00e9lie Poulain* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "90"
+    },
+    {
+        "title": "Toy Story",
+        "year": 1995,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0114709",
+        "description": "Released in 1995, *Toy Story* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "91"
+    },
+    {
+        "title": "Double Indemnity",
+        "year": 1944,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0036775",
+        "description": "Released in 1944, *Double Indemnity* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "92"
+    },
+    {
+        "title": "Taxi Driver",
+        "year": 1976,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0075314",
+        "description": "Released in 1976, *Taxi Driver* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "93"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": 1952,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0045152",
+        "description": "Released in 1952, *Singin' in the Rain* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "94"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0361748",
+        "description": "Released in 2009, *Inglourious Basterds* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "95"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": 1987,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0093058",
+        "description": "Released in 1987, *Full Metal Jacket* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "96"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": 1962,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0056592",
+        "description": "Released in 1962, *To Kill a Mockingbird* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "97"
+    },
+    {
+        "title": "Ladri di biciclette",
+        "year": 1948,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0040522",
+        "description": "Released in 1948, *Ladri di biciclette* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "98"
+    },
+    {
+        "title": "The Kid",
+        "year": 1921,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0012349",
+        "description": "Released in 1921, *The Kid* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "99"
+    },
+    {
+        "title": "The Sting",
+        "year": 1973,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0070735",
+        "description": "Released in 1973, *The Sting* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "100"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0119217",
+        "description": "Released in 1997, *Good Will Hunting* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "101"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0435761",
+        "description": "Released in 2010, *Toy Story 3* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "102"
+    },
+    {
+        "title": "Jagten",
+        "year": 2012,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt2106476",
+        "description": "Released in 2012, *Jagten* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "103"
+    },
+    {
+        "title": "Snatch",
+        "year": 2000,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0208092",
+        "description": "Released in 2000, *Snatch* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "104"
+    },
+    {
+        "title": "Scarface",
+        "year": 1983,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0086250",
+        "description": "Released in 1983, *Scarface* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "105"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": 1975,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0071853",
+        "description": "Released in 1975, *Monty Python and the Holy Grail* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "106"
+    },
+    {
+        "title": "Per qualche dollaro in pi\u00f9",
+        "year": 1965,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0059578",
+        "description": "Released in 1965, *Per qualche dollaro in pi\u00f9* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "107"
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": 1997,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0119488",
+        "description": "Released in 1997, *L.A. Confidential* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "108"
+    },
+    {
+        "title": "The Apartment",
+        "year": 1960,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0053604",
+        "description": "Released in 1960, *The Apartment* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "109"
+    },
+    {
+        "title": "Metropolis",
+        "year": 1927,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0017136",
+        "description": "Released in 1927, *Metropolis* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "110"
+    },
+    {
+        "title": "Jodaeiye Nader az Simin",
+        "year": 2011,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt1832382",
+        "description": "Released in 2011, *Jodaeiye Nader az Simin* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "111"
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0097576",
+        "description": "Released in 1989, *Indiana Jones and the Last Crusade* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "112"
+    },
+    {
+        "title": "Rash\u00f4mon",
+        "year": 1950,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0042876",
+        "description": "Released in 1950, *Rash\u00f4mon* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "113"
+    },
+    {
+        "title": "Up",
+        "year": 2009,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt1049413",
+        "description": "Released in 2009, *Up* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "114"
+    },
+    {
+        "title": "All About Eve",
+        "year": 1950,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0042192",
+        "description": "Released in 1950, *All About Eve* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "115"
+    },
+    {
+        "title": "Batman Begins",
+        "year": 2005,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0372784",
+        "description": "Released in 2005, *Batman Begins* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "116"
+    },
+    {
+        "title": "Y\u00f4jinb\u00f4",
+        "year": 1961,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0055630",
+        "description": "Released in 1961, *Y\u00f4jinb\u00f4* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "117"
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": 1959,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0053291",
+        "description": "Released in 1959, *Some Like It Hot* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "118"
+    },
+    {
+        "title": "Unforgiven",
+        "year": 1992,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0105695",
+        "description": "Released in 1992, *Unforgiven* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "119"
+    },
+    {
+        "title": "Der Untergang",
+        "year": 2004,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0363163",
+        "description": "Released in 2004, *Der Untergang* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "120"
+    },
+    {
+        "title": "Die Hard",
+        "year": 1988,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0095016",
+        "description": "Released in 1988, *Die Hard* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "121"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": 1948,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0040897",
+        "description": "Released in 1948, *The Treasure of the Sierra Madre* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "122"
+    },
+    {
+        "title": "Heat",
+        "year": 1995,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0113277",
+        "description": "Released in 1995, *Heat* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "123"
+    },
+    {
+        "title": "Ikiru",
+        "year": 1952,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0044741",
+        "description": "Released in 1952, *Ikiru* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "124"
+    },
+    {
+        "title": "Incendies",
+        "year": 2010,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt1255953",
+        "description": "Released in 2010, *Incendies* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "125"
+    },
+    {
+        "title": "Raging Bull",
+        "year": 1980,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0081398",
+        "description": "Released in 1980, *Raging Bull* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "126"
+    },
+    {
+        "title": "The Great Escape",
+        "year": 1963,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0057115",
+        "description": "Released in 1963, *The Great Escape* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "127"
+    },
+    {
+        "title": "Bacheha-Ye aseman",
+        "year": 1997,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0118849",
+        "description": "Released in 1997, *Bacheha-Ye aseman* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "128"
+    },
+    {
+        "title": "El laberinto del fauno",
+        "year": 2006,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0457430",
+        "description": "Released in 2006, *El laberinto del fauno* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "129"
+    },
+    {
+        "title": "Babam ve Oglum",
+        "year": 2005,
+        "rating": 8.4,
+        "link": "https://www.imdb.com/title/tt0476735",
+        "description": "Released in 2005, *Babam ve Oglum* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "130"
+    },
+    {
+        "title": "Chinatown",
+        "year": 1974,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0071315",
+        "description": "Released in 1974, *Chinatown* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "131"
+    },
+    {
+        "title": "The Third Man",
+        "year": 1949,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0041959",
+        "description": "Released in 1949, *The Third Man* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "132"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "year": 2018,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt1727824",
+        "description": "Released in 2018, *Bohemian Rhapsody* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "133"
+    },
+    {
+        "title": "Tonari no Totoro",
+        "year": 1988,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0096283",
+        "description": "Released in 1988, *Tonari no Totoro* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "134"
+    },
+    {
+        "title": "Hauru no ugoku shiro",
+        "year": 2004,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0347149",
+        "description": "Released in 2004, *Hauru no ugoku shiro* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "135"
+    },
+    {
+        "title": "Ran",
+        "year": 1985,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0089881",
+        "description": "Released in 1985, *Ran* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "136"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": 1961,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0055031",
+        "description": "Released in 1961, *Judgment at Nuremberg* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "137"
+    },
+    {
+        "title": "El secreto de sus ojos",
+        "year": 2009,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt1305806",
+        "description": "Released in 2009, *El secreto de sus ojos* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "138"
+    },
+    {
+        "title": "The Gold Rush",
+        "year": 1925,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0015864",
+        "description": "Released in 1925, *The Gold Rush* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "139"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0050212",
+        "description": "Released in 1957, *The Bridge on the River Kwai* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "140"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0268978",
+        "description": "Released in 2001, *A Beautiful Mind* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "141"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": 1998,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0120735",
+        "description": "Released in 1998, *Lock, Stock and Two Smoking Barrels* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "142"
+    },
+    {
+        "title": "Casino",
+        "year": 1995,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0112641",
+        "description": "Released in 1995, *Casino* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "143"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt5027774",
+        "description": "Released in 2017, *Three Billboards Outside Ebbing, Missouri* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "144"
+    },
+    {
+        "title": "On the Waterfront",
+        "year": 1954,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0047296",
+        "description": "Released in 1954, *On the Waterfront* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "145"
+    },
+    {
+        "title": "Det sjunde inseglet",
+        "year": 1957,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0050976",
+        "description": "Released in 1957, *Det sjunde inseglet* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "146"
+    },
+    {
+        "title": "Inside Out",
+        "year": 2015,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt2096673",
+        "description": "Released in 2015, *Inside Out* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "147"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": 1980,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0080678",
+        "description": "Released in 1980, *The Elephant Man* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "148"
+    },
+    {
+        "title": "Room",
+        "year": 2015,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt3170832",
+        "description": "Released in 2015, *Room* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "149"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0993846",
+        "description": "Released in 2013, *The Wolf of Wall Street* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "150"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": 1939,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0031679",
+        "description": "Released in 1939, *Mr. Smith Goes to Washington* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "151"
+    },
+    {
+        "title": "V for Vendetta",
+        "year": 2005,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0434409",
+        "description": "Released in 2005, *V for Vendetta* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "152"
+    },
+    {
+        "title": "Warrior",
+        "year": 2011,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt1291584",
+        "description": "Released in 2011, *Warrior* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "153"
+    },
+    {
+        "title": "Blade Runner",
+        "year": 1982,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0083658",
+        "description": "Released in 1982, *Blade Runner* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "154"
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": 1954,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0046912",
+        "description": "Released in 1954, *Dial M for Murder* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "155"
+    },
+    {
+        "title": "Smultronst\u00e4llet",
+        "year": 1957,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0050986",
+        "description": "Released in 1957, *Smultronst\u00e4llet* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "156"
+    },
+    {
+        "title": "The General",
+        "year": 1926,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0017925",
+        "description": "Released in 1926, *The General* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "157"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0477348",
+        "description": "Released in 2007, *No Country for Old Men* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "158"
+    },
+    {
+        "title": "Trainspotting",
+        "year": 1996,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0117951",
+        "description": "Released in 1996, *Trainspotting* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "159"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": 2007,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0469494",
+        "description": "Released in 2007, *There Will Be Blood* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "160"
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0167404",
+        "description": "Set in modern times with a haunting and mysterious atmosphere, this psychological thriller follows a young boy who can communicate with the dead. Guided by a child psychologist, the film masterfully builds suspense and emotional depth, exploring themes of fear, loss, and redemption. Renowned for its shocking plot twist, which redefines the entire narrative, *The Sixth Sense* set a benchmark for clever storytelling and psychological depth in cinema.",
+        "id": "161"
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": 1939,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0031381",
+        "description": "Released in 1939, *Gone with the Wind* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "162"
+    },
+    {
+        "title": "The Thing",
+        "year": 1982,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0084787",
+        "description": "Released in 1982, *The Thing* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "163"
+    },
+    {
+        "title": "Fargo",
+        "year": 1996,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0116282",
+        "description": "Released in 1996, *Fargo* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "164"
+    },
+    {
+        "title": "Gran Torino",
+        "year": 2008,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1205489",
+        "description": "Released in 2008, *Gran Torino* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "165"
+    },
+    {
+        "title": "Roma\u00a0",
+        "year": 2018,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt6155172",
+        "description": "Released in 2018, *Roma\u00a0* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "166"
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": 1978,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0077416",
+        "description": "Released in 1978, *The Deer Hunter* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "167"
+    },
+    {
+        "title": "Finding Nemo",
+        "year": 2003,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0266543",
+        "description": "Released in 2003, *Finding Nemo* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "168"
+    },
+    {
+        "title": "Idi i smotri",
+        "year": 1985,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0091251",
+        "description": "Released in 1985, *Idi i smotri* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "169"
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0118715",
+        "description": "Released in 1998, *The Big Lebowski* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "170"
+    },
+    {
+        "title": "Shutter Island",
+        "year": 2010,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1130884",
+        "description": "Released in 2010, *Shutter Island* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "171"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": 1924,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0015324",
+        "description": "Released in 1924, *Sherlock Jr.* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "172"
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0266697",
+        "description": "Released in 2003, *Kill Bill: Vol. 1* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "173"
+    },
+    {
+        "title": "Cool Hand Luke",
+        "year": 1967,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0061512",
+        "description": "Released in 1967, *Cool Hand Luke* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "174"
+    },
+    {
+        "title": "Rebecca",
+        "year": 1940,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0032976",
+        "description": "Released in 1940, *Rebecca* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "175"
+    },
+    {
+        "title": "T\u00f4ky\u00f4 monogatari",
+        "year": 1953,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0046438",
+        "description": "Released in 1953, *T\u00f4ky\u00f4 monogatari* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "176"
+    },
+    {
+        "title": "Mary and Max",
+        "year": 2009,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0978762",
+        "description": "Released in 2009, *Mary and Max* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "177"
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": 2016,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt2119532",
+        "description": "Released in 2016, *Hacksaw Ridge* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "178"
+    },
+    {
+        "title": "Gone Girl",
+        "year": 2014,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt2267998",
+        "description": "Released in 2014, *Gone Girl* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "179"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0892769",
+        "description": "Released in 2010, *How to Train Your Dragon* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "180"
+    },
+    {
+        "title": "Sunrise: A Song of Two Humans",
+        "year": 1927,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0018455",
+        "description": "Released in 1927, *Sunrise: A Song of Two Humans* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "181"
+    },
+    {
+        "title": "Relatos salvajes",
+        "year": 2014,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt3011894",
+        "description": "Released in 2014, *Relatos salvajes* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "182"
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0107290",
+        "description": "Released in 1993, *Jurassic Park* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "183"
+    },
+    {
+        "title": "Into the Wild",
+        "year": 2007,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0758758",
+        "description": "Released in 2007, *Into the Wild* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "184"
+    },
+    {
+        "title": "Life of Brian",
+        "year": 1979,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0079470",
+        "description": "Released in 1979, *Life of Brian* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "185"
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": 1993,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0107207",
+        "description": "Released in 1993, *In the Name of the Father* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "186"
+    },
+    {
+        "title": "The Truman Show",
+        "year": 1998,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0120382",
+        "description": "Released in 1998, *The Truman Show* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "187"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt2278388",
+        "description": "Released in 2014, *The Grand Budapest Hotel* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "188"
+    },
+    {
+        "title": "Platoon",
+        "year": 1986,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0091763",
+        "description": "Released in 1986, *Platoon* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "189"
+    },
+    {
+        "title": "Stand by Me",
+        "year": 1986,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0092005",
+        "description": "Released in 1986, *Stand by Me* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "190"
+    },
+    {
+        "title": "It Happened One Night",
+        "year": 1934,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0025316",
+        "description": "Released in 1934, *It Happened One Night* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "191"
+    },
+    {
+        "title": "Eskiya\u00a0",
+        "year": 1996,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt0116231",
+        "description": "Released in 1996, *Eskiya\u00a0* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "192"
+    },
+    {
+        "title": "Network",
+        "year": 1976,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0074958",
+        "description": "Released in 1976, *Network* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "193"
+    },
+    {
+        "title": "Stalker",
+        "year": 1979,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0079944",
+        "description": "Released in 1979, *Stalker* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "194"
+    },
+    {
+        "title": "Persona",
+        "year": 1966,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0060827",
+        "description": "Released in 1966, *Persona* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "195"
+    },
+    {
+        "title": "Salinui chueok",
+        "year": 2003,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0353969",
+        "description": "Released in 2003, *Salinui chueok* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "196"
+    },
+    {
+        "title": "Ben-Hur",
+        "year": 1959,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0052618",
+        "description": "Released in 1959, *Ben-Hur* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "197"
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": 2004,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0395169",
+        "description": "Released in 2004, *Hotel Rwanda* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "198"
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt2024544",
+        "description": "Released in 2013, *12 Years a Slave* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "199"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": 2004,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0405159",
+        "description": "Released in 2004, *Million Dollar Baby* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "200"
+    },
+    {
+        "title": "La passion de Jeanne d'Arc",
+        "year": 1928,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0019254",
+        "description": "Released in 1928, *La passion de Jeanne d'Arc* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "201"
+    },
+    {
+        "title": "Rush",
+        "year": 2013,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1979320",
+        "description": "Released in 2013, *Rush* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "202"
+    },
+    {
+        "title": "Andrey Rublev",
+        "year": 1966,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0060107",
+        "description": "Released in 1966, *Andrey Rublev* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "203"
+    },
+    {
+        "title": "Le salaire de la peur",
+        "year": 1953,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0046268",
+        "description": "Released in 1953, *Le salaire de la peur* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "204"
+    },
+    {
+        "title": "Before Sunrise",
+        "year": 1995,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0112471",
+        "description": "Released in 1995, *Before Sunrise* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "205"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1392190",
+        "description": "Released in 2015, *Mad Max: Fury Road* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "206"
+    },
+    {
+        "title": "Les quatre cents coups",
+        "year": 1959,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0053198",
+        "description": "Released in 1959, *Les quatre cents coups* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "207"
+    },
+    {
+        "title": "Prisoners",
+        "year": 2013,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1392214",
+        "description": "Released in 2013, *Prisoners* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "208"
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": 2009,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1028532",
+        "description": "Released in 2009, *Hachi: A Dog's Tale* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "209"
+    },
+    {
+        "title": "Spotlight",
+        "year": 2015,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1895587",
+        "description": "Released in 2015, *Spotlight* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "210"
+    },
+    {
+        "title": "Logan",
+        "year": 2017,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt3315342",
+        "description": "Released in 2017, *Logan* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "211"
+    },
+    {
+        "title": "Rang De Basanti",
+        "year": 2006,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt0405508",
+        "description": "Released in 2006, *Rang De Basanti* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "212"
+    },
+    {
+        "title": "Amores perros",
+        "year": 2000,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0245712",
+        "description": "Released in 2000, *Amores perros* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "213"
+    },
+    {
+        "title": "The Princess Bride",
+        "year": 1987,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0093779",
+        "description": "Released in 1987, *The Princess Bride* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "214"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0264464",
+        "description": "Released in 2002, *Catch Me If You Can* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "215"
+    },
+    {
+        "title": "Kaze no tani no Naushika",
+        "year": 1984,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0087544",
+        "description": "Released in 1984, *Kaze no tani no Naushika* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "216"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1201607",
+        "description": "Released in 2011, *Harry Potter and the Deathly Hallows: Part 2* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "217"
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "year": 1969,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0064115",
+        "description": "Released in 1969, *Butch Cassidy and the Sundance Kid* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "218"
+    },
+    {
+        "title": "Rocky",
+        "year": 1976,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0075148",
+        "description": "Released in 1976, *Rocky* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "219"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": 1975,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0072684",
+        "description": "Released in 1975, *Barry Lyndon* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "220"
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0198781",
+        "description": "Released in 2001, *Monsters, Inc.* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "221"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": 1940,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0032551",
+        "description": "Released in 1940, *The Grapes of Wrath* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "222"
+    },
+    {
+        "title": "The Maltese Falcon",
+        "year": 1941,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0033870",
+        "description": "Released in 1941, *The Maltese Falcon* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "223"
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": 1989,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0097165",
+        "description": "Released in 1989, *Dead Poets Society* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "224"
+    },
+    {
+        "title": "Donnie Darko",
+        "year": 2001,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0246578",
+        "description": "Released in 2001, *Donnie Darko* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "225"
+    },
+    {
+        "title": "The Terminator",
+        "year": 1984,
+        "rating": 8.0,
+        "link": "https://www.imdb.com/title/tt0088247",
+        "description": "Released in 1984, *The Terminator* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "226"
+    },
+    {
+        "title": "Gandhi",
+        "year": 1982,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0083987",
+        "description": "Released in 1982, *Gandhi* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "227"
+    },
+    {
+        "title": "Les diaboliques",
+        "year": 1955,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0046911",
+        "description": "Released in 1955, *Les diaboliques* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "228"
+    },
+    {
+        "title": "La haine",
+        "year": 1995,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0113247",
+        "description": "Released in 1995, *La haine* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "229"
+    },
+    {
+        "title": "Groundhog Day",
+        "year": 1993,
+        "rating": 8.0,
+        "link": "https://www.imdb.com/title/tt0107048",
+        "description": "Released in 1993, *Groundhog Day* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "230"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": 1939,
+        "rating": 8.0,
+        "link": "https://www.imdb.com/title/tt0032138",
+        "description": "Released in 1939, *The Wizard of Oz* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "231"
+    },
+    {
+        "title": "Jaws",
+        "year": 1975,
+        "rating": 8.0,
+        "link": "https://www.imdb.com/title/tt0073195",
+        "description": "Released in 1975, *Jaws* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "232"
+    },
+    {
+        "title": "Le notti di Cabiria",
+        "year": 1957,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0050783",
+        "description": "Released in 1957, *Le notti di Cabiria* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "233"
+    },
+    {
+        "title": "The Help",
+        "year": 2011,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt1454029",
+        "description": "Released in 2011, *The Help* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "234"
+    },
+    {
+        "title": "Faa yeung nin wa",
+        "year": 2000,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0118694",
+        "description": "Released in 2000, *Faa yeung nin wa* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "235"
+    },
+    {
+        "title": "Mandariinid",
+        "year": 2013,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt2991224",
+        "description": "Released in 2013, *Mandariinid* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "236"
+    },
+    {
+        "title": "Before Sunset",
+        "year": 2004,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0381681",
+        "description": "Released in 2004, *Before Sunset* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "237"
+    },
+    {
+        "title": "Paper Moon",
+        "year": 1973,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0070510",
+        "description": "Released in 1973, *Paper Moon* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "238"
+    },
+    {
+        "title": "Ah-ga-ssi",
+        "year": 2016,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt4016934",
+        "description": "Released in 2016, *Ah-ga-ssi* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "239"
+    },
+    {
+        "title": "Paris, Texas",
+        "year": 1984,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0087884",
+        "description": "Released in 1984, *Paris, Texas* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "240"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": 1946,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0036868",
+        "description": "Released in 1946, *The Best Years of Our Lives* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "241"
+    },
+    {
+        "title": "Tenk\u00fb no shiro Rapyuta",
+        "year": 1986,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0092067",
+        "description": "Released in 1986, *Tenk\u00fb no shiro Rapyuta* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "242"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "rating": 8.0,
+        "link": "https://www.imdb.com/title/tt0325980",
+        "description": "Released in 2003, *Pirates of the Caribbean: The Curse of the Black Pearl* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "243"
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "rating": 8.0,
+        "link": "https://www.imdb.com/title/tt1856101",
+        "description": "Released in 2017, *Blade Runner 2049* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "244"
+    },
+    {
+        "title": "La La Land",
+        "year": 2016,
+        "rating": 8.0,
+        "link": "https://www.imdb.com/title/tt3783958",
+        "description": "Released in 2016, *La La Land* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "245"
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt2015381",
+        "description": "Released in 2014, *Guardians of the Galaxy* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "246"
+    },
+    {
+        "title": "Fanny och Alexander",
+        "year": 1982,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0083922",
+        "description": "Released in 1982, *Fanny och Alexander* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "247"
+    },
+    {
+        "title": "Tsubaki Sanj\u00fbr\u00f4",
+        "year": 1962,
+        "rating": 8.1,
+        "link": "https://www.imdb.com/title/tt0056443",
+        "description": "Released in 1962, *Tsubaki Sanj\u00fbr\u00f4* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "248"
+    },
+    {
+        "title": "Gangs of Wasseypur",
+        "year": 2012,
+        "rating": 8.2,
+        "link": "https://www.imdb.com/title/tt1954470",
+        "description": "Released in 2012, *Gangs of Wasseypur* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "249"
+    },
+    {
+        "title": "Drishyam\u00a0",
+        "year": 2015,
+        "rating": 8.3,
+        "link": "https://www.imdb.com/title/tt4430212",
+        "description": "Released in 2015, *Drishyam\u00a0* is a film celebrated for its unique approach to storytelling. Whether through its compelling characters, distinctive setting, or thought-provoking themes, the movie captures the imagination and continues to resonate with audiences.",
+        "id": "250"
+    }
+]
